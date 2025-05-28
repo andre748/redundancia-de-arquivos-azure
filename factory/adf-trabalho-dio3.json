@@ -1,0 +1,9 @@
+{
+	"name": "adf-trabalho-dio3",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f28b34fe-49ea-499e-8e9a-d7bba8ed4244",
+		"tenantId": "299a490c-e2cf-4e74-b256-6085aa4676ad"
+	}
+}
