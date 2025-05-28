@@ -26,24 +26,20 @@ Transferir dados de um banco SQL hospedado no Azure para um Blob Storage, utiliz
 5. Executado e validado com sucesso 
 
 ## 📷 Prints
-### ✔️ Execução bem-sucedida:
-![Execução](./prints/execucao-sucesso.png)
+### ✔️ Detalhes da atividade de cópia entre SQL Server e Blob Storage:
+![Execução](./prints/pipeline_concluido.png)
 
-### ✔️ Estrutura do pipeline:
-![Pipeline](./prints/pipeline-estrutura.png)
+### ✔️ Conteúdo do container “bronze” no Azure Blob Storage:
+![Pipeline](./print/copia_concluida.png)
 
 ## 🤖 Insights
 - Aprendi como configurar autenticação no SQL Server e criar usuários com permissões adequadas
 - Entendi a importância de configurar regras de firewall no servidor
 - Experimentei a exportação de recursos do Data Factory para Git
 
-## 🔗 Link do projeto no Azure
-*(Não aplicável por ser um ambiente fechado)*
 
 ## 📘 Conclusão
 Projeto concluído com sucesso, pronto para ser exibido em portfólio profissional.
 
----
 
-Desenvolvido para a DIO por **André Monteiro**
 
