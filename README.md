@@ -27,7 +27,7 @@ Transferir dados de um banco SQL hospedado no Azure para um Blob Storage, utiliz
 
 ## 📷 Prints
 ### ✔️ Detalhes da atividade de cópia entre SQL Server e Blob Storage:
-![Execução](./prints/pipeline_concluido.png)
+![Execução](./print/pipeline_concluido.png)
 
 ### ✔️ Conteúdo do container “bronze” no Azure Blob Storage:
 ![Pipeline](./print/copia_concluida.png)
