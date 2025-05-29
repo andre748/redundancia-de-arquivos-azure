@@ -38,8 +38,5 @@ Transferir dados de um banco SQL hospedado no Azure para um Blob Storage, utiliz
 - Experimentei a exportação de recursos do Data Factory para Git
 
 
-## 📘 Conclusão
-Projeto concluído com sucesso, pronto para ser exibido em portfólio profissional.
-
 
 
